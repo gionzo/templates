@@ -1,2 +1,2 @@
 # templates
-a bunch of different templates from keynote to latex
+a bunch of different templates for keynote and latex
